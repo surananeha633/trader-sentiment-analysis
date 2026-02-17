@@ -3,7 +3,7 @@ Primetrade.ai – Round 0 Assignment
 
 ---
 
-## 1️⃣ Methodology
+## 1 Methodology
 
 This analysis examines how Bitcoin market sentiment (Fear vs Greed) impacts trader behavior and performance on Hyperliquid.
 
@@ -30,7 +30,7 @@ Trader segmentation was performed based on:
 
 ---
 
-## 2️⃣ Key Findings
+## 2️ Key Findings
 
 ### 🔹 1. Performance Varies Across Sentiment Regimes
 
@@ -62,9 +62,9 @@ This indicates emotional amplification effects during negative sentiment phases.
 
 ---
 
-## 3️⃣ Strategy Recommendations
+## 3️ Strategy Recommendations
 
-### ✅ Strategy 1 — Defensive Risk Adjustment During Fear
+###  Strategy 1 — Defensive Risk Adjustment During Fear
 
 - Reduce trade frequency for high-frequency traders.
 - Limit position size expansion.
@@ -74,7 +74,7 @@ This indicates emotional amplification effects during negative sentiment phases.
 
 ---
 
-### ✅ Strategy 2 — Controlled Aggression During Greed
+###  Strategy 2 — Controlled Aggression During Greed
 
 - Allow moderate exposure increase.
 - Cap trade frequency to prevent overtrading.
@@ -84,7 +84,7 @@ This indicates emotional amplification effects during negative sentiment phases.
 
 ---
 
-### ✅ Strategy 3 — Sentiment-Adaptive Risk Framework
+###  Strategy 3 — Sentiment-Adaptive Risk Framework
 
 Incorporate sentiment classification as a dynamic signal:
 
