@@ -28,6 +28,18 @@ Trader segmentation was performed based on:
 - Trade frequency (High vs Low)
 - Performance consistency (Consistent vs Inconsistent traders)
 
+  ## How to Run
+
+1. Download the notebook (.ipynb file)
+2. Install required libraries:
+   - pandas
+   - numpy
+   - matplotlib
+   - seaborn
+3. Upload datasets
+4. Run all cells
+
+
 ---
 
 ## 2️. Key Findings
