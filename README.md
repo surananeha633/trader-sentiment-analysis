@@ -113,3 +113,13 @@ Market sentiment materially influences trader behavior and performance.
 Integrating sentiment into risk management and capital allocation decisions can improve risk-adjusted returns and reduce drawdown exposure. Segment-based adaptation (frequency and consistency) provides a structured approach to smarter trading strategy design.
 
 ---
+## How to Run
+
+1. Download the notebook (.ipynb file)
+2. Install required libraries:
+   - pandas
+   - numpy
+   - matplotlib
+   - seaborn
+3. Upload datasets
+4. Run all cells
